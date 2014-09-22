@@ -92,7 +92,7 @@ public class DragDropGrid extends ViewGroup implements OnTouchListener, OnLongCl
 	private OnTouchListener onTouchListener;
 	private OnLongClickListener onLongClickListener;
 	
-	// dhagz -- boolean if items should jiggle or not
+	// nyahahawakoko -- boolean if items should jiggle or not
 	private boolean isJiggleItems = false;
 
 	public DragDropGrid(Context context, AttributeSet attrs, int defStyle) {
